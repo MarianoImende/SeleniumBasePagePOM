@@ -13,15 +13,3 @@ Para instalar el proyecto, sigue los siguientes pasos:
 ## Uso
 
 Este proyecto se puede utilizar como ejemplo para implementar el paradigma Page Object Model con Selenium WebDriver en proyectos de automatización de pruebas con Python.
-
-## Contribuciones
-
-Si quieres contribuir con este proyecto, por favor abre un issue o realiza un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-
-## Información adicional
-
-Un archivo README.md es una herramienta importante para documentar y comunicar la información relevante sobre un proyecto. Asegúrate de incluir información detallada sobre la instalación, el uso y la contribución al proyecto. También puedes agregar secciones adicionales como la licencia, la versión, la documentación y los créditos. Un buen README.md puede ayudar a otros desarrolladores a entender rápidamente tu proyecto y animarlos a contribuir. 
